@@ -1,0 +1,28 @@
+#image{
+    display: block;
+    max-width: 100%;
+    width: 50%;
+    height: auto;
+    border-radius: 100%;
+    margin: 0 auto;
+    border: 5px solid black;
+}
+#img-div{
+    margin: auto;
+}
+h1,h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 1.5rem;
+}
+a{
+    display: block;
+    font-size: 1.2rem;
+    text-decoration: none;
+    text-align: center;
+}
+html, body{
+    background-color: rgb(156, 156, 156);
+}
